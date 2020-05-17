@@ -1,0 +1,13 @@
+C:\Users\Studerande\source\repos\BooksDatabase\BooksDatabase\obj\Debug\netcoreapp3.1\BooksDatabase.csprojAssemblyReference.cache
+C:\Users\Studerande\source\repos\BooksDatabase\BooksDatabase\obj\Debug\netcoreapp3.1\BooksDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Studerande\source\repos\BooksDatabase\BooksDatabase\obj\Debug\netcoreapp3.1\BooksDatabase.AssemblyInfoInputs.cache
+C:\Users\Studerande\source\repos\BooksDatabase\BooksDatabase\obj\Debug\netcoreapp3.1\BooksDatabase.AssemblyInfo.cs
+C:\Users\Studerande\source\repos\BooksDatabase\BooksDatabase\bin\Debug\netcoreapp3.1\BooksDatabase.exe
+C:\Users\Studerande\source\repos\BooksDatabase\BooksDatabase\bin\Debug\netcoreapp3.1\BooksDatabase.deps.json
+C:\Users\Studerande\source\repos\BooksDatabase\BooksDatabase\bin\Debug\netcoreapp3.1\BooksDatabase.runtimeconfig.json
+C:\Users\Studerande\source\repos\BooksDatabase\BooksDatabase\bin\Debug\netcoreapp3.1\BooksDatabase.runtimeconfig.dev.json
+C:\Users\Studerande\source\repos\BooksDatabase\BooksDatabase\bin\Debug\netcoreapp3.1\BooksDatabase.dll
+C:\Users\Studerande\source\repos\BooksDatabase\BooksDatabase\bin\Debug\netcoreapp3.1\BooksDatabase.pdb
+C:\Users\Studerande\source\repos\BooksDatabase\BooksDatabase\obj\Debug\netcoreapp3.1\BooksDatabase.dll
+C:\Users\Studerande\source\repos\BooksDatabase\BooksDatabase\obj\Debug\netcoreapp3.1\BooksDatabase.pdb
+C:\Users\Studerande\source\repos\BooksDatabase\BooksDatabase\obj\Debug\netcoreapp3.1\BooksDatabase.genruntimeconfig.cache
